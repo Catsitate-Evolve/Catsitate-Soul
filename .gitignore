@@ -1,0 +1,8 @@
+# Playwright browser snapshots
+.playwright-mcp/
+.playwright-mcp/*
+# Loose page snapshots from research
+*-page.txt
+*:Zone.Identifier
+# Tool results cache
+.tool-results/
