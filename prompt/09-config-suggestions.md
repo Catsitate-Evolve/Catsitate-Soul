@@ -12,7 +12,7 @@
 |---|---|---|---|
 | `[bot] nickname` | `"Catsitate-dev"` | 正式部署改回 `"Catsitate"` | dev 调试名，正式用去掉后缀 |
 | `[personality] personality` | 空 | ← 01 | 人格叙事 |
-| `[personality] behavior_style` | 空 | ← 02 + 06 追加 | 行动准则 + 机制联动规则（06 全文接在 02 之后） |
+| `[personality] behavior_style` | 空 | ← 02 | 行动准则（已含机制联动精简版 + 工具采用段；完整细则见 06） |
 | `[personality] reply_style` | 空 | ← 03 | 表达风格 |
 | `[personality] multiple_reply_style` | 已有旧版五条 | ← 05（替换） | 微调版五风格 |
 | `[personality] multiple_probability` | `0.3` | 保持 | 已验证的概率 |
